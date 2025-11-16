@@ -51,11 +51,6 @@ This project automatically generates podcast show notes by transcribing **audio 
 
 ---
 
-## 📘 Notebook Link
-Add your Google Colab link here after uploading the notebook.
 
----
-
-## 📂 Project Structure
 
 
